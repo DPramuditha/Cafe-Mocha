@@ -1,0 +1,23 @@
+Hot Coffees
+Item Name : Cappuccino
+description :  A classic Italian coffee drink made with equal parts espresso, steamed milk, and milk foam. It’s rich and creamy, perfect for a morning boost.
+Price : Rs:700
+
+Item Name : Latte
+description : A smooth and creamy coffee made with a shot of espresso and steamed milk, topped with a small amount of milk foam. Often enjoyed with a variety of flavored syrups.
+Price : Rs:600
+
+Item Name : Flat White
+description : An espresso-based drink with a higher ratio of coffee to milk, resulting in a stronger flavor. It’s topped with a thin layer of microfoam.
+Price :Rs:550
+
+Cold Coffees
+Item Name : Cold Brew
+description : A refreshing coffee made by steeping coarsely ground coffee beans in cold water for an extended period. It’s smooth, less acidic, and served chilled
+Price :Rs:650
+
+Specialty Coffees
+Item Name : Mocha
+description :  A delightful blend of espresso, steamed milk, and chocolate syrup, topped with whipped cream. It’s a sweet treat for coffee and chocolate lovers.
+Price: Rs:460
+

@@ -1,0 +1,24 @@
+============================================================
+Café Mocha,
+ You Order Details : 
+Order Number :1000
+Customer Name :dimuthu
+Customer Address : kirindiwela
+Phone Number : 76543320
+============================================================
+Order Item Name : latte
+Quntity : 2
+Item Price : 600
+============================================================
+============================================================
+Café Mocha,
+ You Order Details : 
+Order Number :1000
+Customer Name :dimuthu
+Customer Address : kirindiwela
+Phone Number : 750567853
+============================================================
+Order Item Name : latte
+Quntity : 2
+Item Price : 600
+============================================================
